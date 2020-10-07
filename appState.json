@@ -27,7 +27,8 @@
             "resourceName": "alexaSK2062aea9dc3b43d0b4f3d47952090b10",
             "config": {}
           }
-        ]
+        ],
+        "lastUpdated": 1602056518069
       }
     },
     "openFiles": [
@@ -1073,7 +1074,8 @@
             }
           }
         }
-      }
+      },
+      "syntax": "JSON"
     },
     "envVariables": [
       {
@@ -1098,6 +1100,7 @@
     }
   },
   "PROJECT_META": {
+    "sigmaVersion": "1.4.3.1",
     "projectName": "0204_alexasample",
     "projectDescription": "",
     "projectVersion": "1.0.0",
@@ -1105,7 +1108,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1585819796634
+    "lastSave": 1602056526239
   },
   "VCS_STATE": {
     "provider": "GitHub",
